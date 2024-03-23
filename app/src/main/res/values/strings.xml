@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="str_dark_mode">Modo oscuro</string>
+    <string name="str_descripcion">Activar modo oscuro</string>
+    <string name="str_bluetooth">Bluetooth</string>
+    <string name="str_str_bluetooth_descripcion">Activar el bluetooth</string>
+    <string name="str_volumen">Volumen</string>
+    <string name="str_vibrar">Vibrar</string>
+</resources>
